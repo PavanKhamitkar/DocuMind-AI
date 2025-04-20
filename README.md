@@ -106,6 +106,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📮 Contact
 
-Your Name - [khamitkarpavan8@gmail.com](mailto:khamitkarpavan8@gmail.com)
+Pavan Khamitkar - [khamitkarpavan8@gmail.com](mailto:khamitkarpavan8@gmail.com)
 
 Project Link: [https://github.com/PavanKhamitkar/DocuMind-AI](https://github.com/PavanKhamitkar/DocuMind-AI)
